@@ -1,0 +1,6 @@
+Hello Project
+Pengenalan GitHub
+Nama 		: Muhammad Ikhsan
+Nim  		: 1301200465
+Kelas		: IF-44-07
+Mata Kuliah 	: Wawasan Global TIK
